@@ -9,4 +9,9 @@
         background-color: $mainBlue;
         color: #fff;
     }
+
+    &--testimonials {
+        background: url('C:\Users\jregenberg\Desktop\projekt\travel-site\app\assets\images\testimonials-bg.jpg') top center no-repeat;
+        background-size: cover;
+    }
 }
